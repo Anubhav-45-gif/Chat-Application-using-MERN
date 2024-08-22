@@ -1,4 +1,5 @@
 ## MERN Chat Application
+
 ## Overview
 The MERN Chat Application is a real-time messaging platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to communicate with each other in real-time, with features like user authentication, group chats, and message persistence.
 
